@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?> 
+
+<equipo>
+
+    <nombre>Mi PC</nombre>
+    <componentes>
+    
+        <componente nombre="procesador">
+            
+            <fabricante></fabricante>
+            <precio></precio>
+            <caracteristicas></caracteristicas>
+    
+        </componente>
+
+       <componente nombre="disco duro interno">
+            
+            <fabricante></fabricante>
+            <precio></precio>
+            <caracteristicas></caracteristicas>
+    
+        </componente>
+
+       <componente nombre="placa base">
+       
+            <fabricante></fabricante>
+            <precio></precio>
+            <caracteristicas></caracteristicas>
+    
+        </componente>
+
+         <componente nombre="tarjeta gráfica">
+            
+            <fabricante></fabricante>
+            <precio></precio>
+            <caracteristicas></caracteristicas>
+    
+        </componente>
+
+         <componente nombre="memoria RAM">
+            
+            <fabricante></fabricante>
+            <precio></precio>
+            <caracteristicas></caracteristicas>
+    
+        </componente>
+   
+    
+    </componentes>
+    
+
+
+
+
+
+</equipo>

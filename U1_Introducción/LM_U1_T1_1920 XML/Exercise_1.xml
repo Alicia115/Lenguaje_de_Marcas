@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<libro>
+
+    <titulo>Esta vida está mal pensada</titulo>
+
+    <editorial>No me importa</editorial>
+
+    <autora>La Ali</autora>
+
+    <paginas>367</paginas>
+
+    <capitulos>
+    
+        <capitulo>
+
+            <titulo>1.La vida</titulo>
+            <pagina_inicio>1</pagina_inicio>
+            <pagina_final>12</pagina_final> 
+        
+        </capitulo>
+    
+        <capitulo>
+        
+            <titulo>2.¿Por qué descanasamos 2 días y trabajamos 5?</titulo>
+            <pagina_inicio>13</pagina_inicio>
+            <pagina_final>27</pagina_final> 
+        
+        </capitulo>
+
+        <capitulo>
+        
+            <titulo>3.Si la vida te da limones... véndelos</titulo>
+            <pagina_inicio>28</pagina_inicio>
+            <pagina_final>41</pagina_final> 
+        
+        </capitulo>
+
+        <capitulo>
+        
+            <titulo>4.Qué de palos da la vida</titulo>
+            <pagina_inicio>42</pagina_inicio>
+            <pagina_final>57</pagina_final> 
+        
+        </capitulo>
+
+        <capitulo>
+        
+            <titulo>5.Si te organizas, tu vida estará organizada</titulo>
+            <pagina_inicio>58</pagina_inicio>
+            <pagina_final>71</pagina_final> 
+        
+        </capitulo>
+
+        <capitulo>
+        
+            <titulo>6.La vida es un mojón</titulo>
+            <pagina_inicio>72</pagina_inicio>
+            <pagina_final>90</pagina_final> 
+        
+        </capitulo>
+    
+    </capitulos>
+
+
+</libro>

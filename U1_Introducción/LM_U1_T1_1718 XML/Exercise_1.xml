@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cartelera>
+
+    <peliculas>
+    
+        <pelicula nombre="Con la muerte en los talones">
+
+            <sesiones>
+
+                <sesion nombre="1">11:00</sesion>
+                <sesion nombre="2">18:00</sesion>
+                <sesion nombre="3">22:00</sesion>
+
+            </sesiones>
+
+            <director>Alfred Hitchcock</director>
+
+            <protagonistas>
+
+                <protagonista>Gary Grant</protagonista>
+            
+                <protagonista>Eva Marie Saint</protagonista>
+
+            </protagonistas>
+
+            <resumen>Debido a un malentendido, a Roger O. Thornhill, un ejecutivo del mundo de la publicidad, unos espías lo confunden con un agente del gobierno llamado George Kaplan. Secuestrado por tres individuos y llevado a una mansión en la que es interrogado, consigue huir antes de que lo maten. Pero cuando al día siguiente regresa a la casa acompañado de la policía, le espera una sorpresa. </resumen>
+        
+        </pelicula>
+            
+        <pelicula nombre="La muerte os sienta tan bien">
+            <sesiones>
+
+                <sesion nombre="1">13:00</sesion>
+                <sesion nombre="2">20:00</sesion>
+                <sesion nombre="3">23:00</sesion>
+
+            </sesiones>
+
+            <director>Robert Zemeckis</director>
+
+            <protagonistas>
+
+                <protagonista>Meryl Streep</protagonista>
+            
+                <protagonista>Bruce Willis</protagonista>
+
+            </protagonistas>
+
+            <resumen>La actriz Madeline Ashton (Meryl Streep) le "roba" el prometido, el cirujano plástico Ernest Menville (Bruce Willis), a su amiga Helen (Goldie Hawn) y se casa con él. Siete años después, Madeline solo vive por y para su físico, Helen tiene sobrepeso y depresión, y Ernest es un borracho y maquilla cadáveres. Pasan otros siete años, Helen ha escrito un libro y, para sorpresa y horror de Madeline, está delgada y guapa por lo que la actriz teme que intente robarle a Ernest, así que acude a una moderna bruja (Isabella Rossellini) que le proporciona un elixir que le hace recuperar la juventud pero que tiene otros efectos. </resumen>
+        </pelicula>
+
+        <pelicula nombre="La Vida de Pi">
+            <sesiones>
+
+                <sesion nombre="1">12:00</sesion>
+                <sesion nombre="2">17:00</sesion>
+                <sesion nombre="3">21:00</sesion>
+
+            </sesiones>
+
+            <director>Ang Lee</director>
+
+            <protagonistas>
+
+                <protagonista>Suraj Sharma</protagonista>
+            
+                <protagonista>Irrfan Khan</protagonista>
+
+            </protagonistas>
+
+            <resumen>Tras un naufragio en medio del océano Pacífico, el joven hindú Pi, hijo de un guarda de zoo que viajaba de la India a Canadá, se encuentra en un bote salvavidas con un único superviviente, un tigre de bengala con quien labrará una emocionante, increíble e inesperada relación.</resumen>
+        </pelicula>
+       
+        <pelicula nombre="La Vida de Brian">
+            <sesiones>
+
+                <sesion nombre="1">10:00</sesion>
+                <sesion nombre="2">16:00</sesion>
+                <sesion nombre="3">22:00</sesion>
+
+            </sesiones>
+
+            <director>Terry Jones</director>
+
+            <protagonistas>
+
+                <protagonista>John Cleese</protagonista>
+            
+                <protagonista>Michael Palin</protagonista>
+
+            </protagonistas>
+
+            <resumen>Brian nace en un pesebre de Belén el mismo día que Jesucristo. Un cúmulo de desgraciados y tronchantes equívocos le harán llevar una vida paralela a la del verdadero Hijo de Dios. Sus pocas luces y el ambiente de decadencia y caos absoluto en que se haya sumergida la Galilea de aquellos días, le harán vivir en manos de su madre, de una feminista revolucionaria y del mismísimo Poncio Pilatos, su propia versión del calvario.</resumen>
+        </pelicula>
+
+        <pelicula nombre="El crepúsculo de los dioses">
+           <sesiones>
+
+                <sesion nombre="1">13:00</sesion>
+                <sesion nombre="2">18:30</sesion>
+                <sesion nombre="3">22:30</sesion>
+
+            </sesiones>
+
+            <director>Billy Wilder</director>
+
+            <protagonistas>
+
+                <protagonista>William Holden</protagonista>
+            
+                <protagonista>Gloria Swanson</protagonista>
+
+            </protagonistas> 
+
+            <resumen>Joe Gillis es un joven escritor de segunda fila que, acosado por sus acreedores, se refugia casualmente en la mansión de Norma Desmond, antigua estrella del cine mudo, que vive fuera de la realidad, acompañada únicamente de su fiel criado Max. A partir de ese momento, la actriz pretende que Joe corrija un guión que ella ha escrito y que va a significar su regreso al cine.</resumen>
+        </pelicula>
+    
+    
+    
+    </peliculas>
+
+</cartelera>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<centro_comercial>
+
+    <tienda>
+        <nombre>Games</nombre>
+
+        <parcelas metros="1200">
+            <parcela>1</parcela>
+        </parcelas>
+
+        <encargado>
+            <nombre>Agustín</nombre>
+            <apellido>Roles</apellido>
+            <contacto>654789098</contacto>
+            <nss>67893625</nss>
+        </encargado>
+    
+    </tienda>
+
+    <tienda>
+        <nombre>Mango</nombre>
+
+        <parcelas metros="2000">
+            <parcela>1</parcela>
+            <parcela>2</parcela>
+        </parcelas>
+
+        <encargado>
+            <nombre>Eugenio</nombre>
+            <apellido>Rodriguez</apellido>
+            <contacto>678987432</contacto>
+            <nss>27810101</nss>
+        </encargado>
+    
+    </tienda>
+
+    <tienda>
+        <nombre>HyM</nombre>
+
+        <parcelas metros="2560">
+            <parcela>1</parcela>
+            <parcela>2</parcela>
+            <parcela>3</parcela>
+        </parcelas>
+
+        <encargado>
+            <nombre>Lucía</nombre>
+            <apellido>Gil</apellido>
+            <contacto>692356790</contacto>
+            <nss>456789092</nss>
+        </encargado>
+    
+    </tienda>
+
+    <tienda>
+        <nombre>Primor</nombre>
+
+        <parcelas metros="3000">
+            <parcela>1</parcela>
+            <parcela>2</parcela>
+            <parcela>2</parcela>
+        </parcelas>
+
+        <encargado>
+            <nombre>Alejandra</nombre>
+            <apellido>Ruíz</apellido>
+            <contacto>678543213</contacto>
+            <nss>456723918</nss>
+        </encargado>
+    
+    </tienda>
+
+    <tienda>
+        <nombre>CyA</nombre>
+
+        <parcelas metros="3200">
+            <parcela>1</parcela>
+            <parcela>2</parcela>
+            <parcela>3</parcela>
+        </parcelas>
+
+        <encargado>
+            <nombre>Maria</nombre>
+            <apellido>Zamora</apellido>
+            <contacto>676941243</contacto>
+            <nss>459822948</nss>
+        </encargado>
+    
+    </tienda>
+
+    <tienda>
+        <nombre>Zara</nombre>
+
+        <parcelas metros="2690">
+            <parcela>1</parcela>
+            <parcela>2</parcela>
+        </parcelas>
+
+        <encargado>
+            <nombre>Dario</nombre>
+            <apellido>Moreno</apellido>
+            <contacto>665543917</contacto>
+            <nss>47829926282</nss>
+        </encargado>
+    
+    </tienda>
+
+    <tienda>
+        <nombre>Benyjerry</nombre>
+
+        <parcelas metros="1120">
+            <parcela>1</parcela>
+        </parcelas>
+
+        <encargado>
+            <nombre>Enrique</nombre>
+            <apellido>Fernandez</apellido>
+            <contacto>687509987</contacto>
+            <nss>47758393922</nss>
+        </encargado>
+    
+    </tienda>
+
+    <tienda>
+        <nombre>llao llao</nombre>
+
+        <parcelas metros="1000">
+            <parcela>1</parcela>
+        </parcelas>
+
+        <encargado>
+            <nombre>Olga</nombre>
+            <apellido>Garcia</apellido>
+            <contacto>678943054</contacto>
+            <nss>41738282992</nss>
+        </encargado>
+    
+    </tienda>
+
+    <tienda>
+        <nombre>Marypaz</nombre>
+
+        <parcelas metros="2345">
+            <parcela>1</parcela>
+            <parcela>2</parcela>
+        </parcelas>
+
+        <encargado>
+            <nombre>Diego</nombre>
+            <apellido>Luna</apellido>
+            <contacto>652018167</contacto>
+            <nss>4374748499</nss>
+        </encargado>
+    
+    </tienda>
+
+    <tienda>
+        <nombre>Gambrinus</nombre>
+
+        <parcelas metros="3456">
+            <parcela>1</parcela>
+            <parcela>2</parcela>
+            <parcela>3</parcela>
+        </parcelas>
+
+        <encargado>
+            <nombre>Andrea</nombre>
+            <apellido>Galán</apellido>
+            <contacto>689345212</contacto>
+            <nss>4188595953</nss>
+        </encargado>
+    
+    </tienda>
+
+</centro_comercial>

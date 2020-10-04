@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<horario>
+
+    <dias>
+
+        <dia nombre="lunes">
+
+            <tramos>
+                <tramo nombre="1">
+                    <inicio>08:00</inicio>
+                    <fin>11:00</fin>
+                    <asignatura>BD</asignatura>
+                    <profesor>Teresa</profesor>
+                </tramo>
+                <tramo nombre="2">
+                    <inicio>11:30</inicio>
+                    <fin>13:30</fin>
+                    <asignatura>ENDES</asignatura>
+                    <profesor>Reyes</profesor>
+                </tramo>
+                <tramo nombre="3">
+                    <inicio>13:30</inicio>
+                    <fin>14:30</fin>
+                    <asignatura>FOL</asignatura>
+                    <profesor>Julio</profesor>
+                </tramo>
+            </tramos>
+
+        </dia>
+
+        <dia nombre="martes">
+
+            <tramos>
+                <tramo nombre="1">
+                    <inicio>08:00</inicio>
+                    <fin>09:00</fin>
+                    <asignatura>FOL</asignatura>
+                    <profesor>Julio</profesor>
+                </tramo>
+                <tramo nombre="2">
+                    <inicio>09:00</inicio>
+                    <fin>11:00</fin>
+                    <asignatura>LM</asignatura>
+                    <profesor>Juan Diego</profesor>
+                </tramo>
+                <tramo nombre="3">
+                    <inicio>11:30</inicio>
+                    <fin>14:30</fin>
+                    <asignatura>PROGRAMACION</asignatura>
+                    <profesor>Juan Diego</profesor>
+                </tramo>
+            </tramos>
+
+        </dia>
+
+        <dia nombre="miércoles">
+
+            <tramos>
+                <tramo nombre="1">
+                    <inicio>08:00</inicio>
+                    <fin>11:00</fin>
+                    <asignatura>SI</asignatura>
+                    <profesor>Sebastián</profesor>
+                </tramo>
+                <tramo nombre="2">
+                    <inicio>11:30</inicio>
+                    <fin>12:30</fin>
+                    <asignatura>ENDES</asignatura>
+                    <profesor>Reyes</profesor>
+                </tramo>
+                <tramo nombre="3">
+                    <inicio>12:30</inicio>
+                    <fin>14:30</fin>
+                    <asignatura>LM</asignatura>
+                    <profesor>Juan Diego</profesor>
+                </tramo>
+            </tramos>
+
+        </dia>
+
+        <dia nombre="jueves">
+
+            <tramos>
+                <tramo nombre="1">
+                    <inicio>08:00</inicio>
+                    <fin>11:00</fin>
+                    <asignatura>SI</asignatura>
+                    <profesor>Sebastián</profesor>
+                </tramo>
+                <tramo nombre="2">
+                    <inicio>11:30</inicio>
+                    <fin>14:30</fin>
+                    <asignatura>PROGRAMACIÓN</asignatura>
+                    <profesor>Juan Diego</profesor>
+                </tramo>
+            </tramos>
+
+        </dia>
+
+        <dia nombre="viernes">
+
+            <tramos>
+                <tramo nombre="1">
+                    <inicio>08:00</inicio>
+                    <fin>09:00</fin>
+                    <asignatura>FOL</asignatura>
+                    <profesor>Julio</profesor>
+                </tramo>
+                <tramo nombre="2">
+                    <inicio>09:00</inicio>
+                    <fin>12:30</fin>
+                    <asignatura>BD</asignatura>
+                    <profesor>Teresa</profesor>
+                </tramo>
+                <tramo nombre="3">
+                    <inicio>12:30</inicio>
+                    <fin>14:30</fin>
+                    <asignatura>PROGRAMACION</asignatura>
+                    <profesor>Juan Diego</profesor>
+                </tramo>
+            </tramos>
+
+        </dia>
+
+    </dias>
+
+</horario>

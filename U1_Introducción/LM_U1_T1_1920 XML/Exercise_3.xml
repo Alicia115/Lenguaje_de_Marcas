@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<concesionario>
+
+    <marca nombre="">
+
+        <procedencia></procedencia>
+
+        <coches>
+            <coche modelo="">
+                <matricula></matricula>
+                <año_matriculacion> </año_matriculacion>
+                <plazas></plazas>
+                <cilindradas></cilindradas>
+
+            </coche>
+        
+            <coche modelo="">
+                <matricula></matricula>
+                <año_matriculacion> </año_matriculacion>
+                <plazas></plazas>
+                <cilindradas></cilindradas>
+
+            </coche>
+        
+        </coches>
+    
+    </marca>
+
+    <marca nombre="">
+
+        <procedencia></procedencia>
+
+        <coches>
+            <coche modelo="">
+                <matricula></matricula>
+                <año_matriculacion> </año_matriculacion>
+                <plazas></plazas>
+                <cilindradas></cilindradas>
+
+            </coche>
+        
+            <coche modelo="">
+                <matricula></matricula>
+                <año_matriculacion> </año_matriculacion>
+                <plazas></plazas>
+                <cilindradas></cilindradas>
+
+            </coche>
+        
+        </coches>
+    
+    </marca>
+
+    <marca nombre="">
+
+        <procedencia></procedencia>
+
+        <coches>
+            <coche modelo="">
+                <matricula></matricula>
+                <año_matriculacion> </año_matriculacion>
+                <plazas></plazas>
+                <cilindradas></cilindradas>
+
+            </coche>
+        
+            <coche modelo="">
+                <matricula></matricula>
+                <año_matriculacion> </año_matriculacion>
+                <plazas></plazas>
+                <cilindradas></cilindradas>
+
+            </coche>
+        
+        </coches>
+    
+    </marca>
+
+    <marca nombre="">
+
+        <procedencia></procedencia>
+
+        <coches>
+            <coche modelo="">
+                <matricula></matricula>
+                <año_matriculacion> </año_matriculacion>
+                <plazas></plazas>
+                <cilindradas></cilindradas>
+
+            </coche>
+        
+            <coche modelo="">
+                <matricula></matricula>
+                <año_matriculacion> </año_matriculacion>
+                <plazas></plazas>
+                <cilindradas></cilindradas>
+
+            </coche>
+        
+        </coches>
+    
+    </marca>
+
+    <marca nombre="">
+
+        <procedencia></procedencia>
+
+        <coches>
+            <coche modelo="">
+                <matricula></matricula>
+                <año_matriculacion> </año_matriculacion>
+                <plazas></plazas>
+                <cilindradas></cilindradas>
+
+            </coche>
+        
+            <coche modelo="">
+                <matricula></matricula>
+                <año_matriculacion> </año_matriculacion>
+                <plazas></plazas>
+                <cilindradas></cilindradas>
+
+            </coche>
+        
+        </coches>
+    
+    </marca>
+
+</concesionario>
