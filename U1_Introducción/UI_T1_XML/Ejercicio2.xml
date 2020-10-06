@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<cluster>
+
+    <nodos nombre="1">
+        <ip>172.16.4.205</ip>
+        <maquinas_virtuales>
+            <maquina_virtual nombre="1">
+                <sistema_operativo>Windows</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>172.15.3.203</ip>
+                        <mac>234</mac>
+                    </interfaz>
+
+                    <interfaz>
+                        <ip>173.11.2.203</ip>
+                        <mac>454556</mac>
+                    </interfaz>
+
+                    <interfaz>
+                        <ip>171.14.6.204</ip>
+                        <mac>5544</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+            <maquina_virtual nombre="2">
+                <sistema_operativo>Linux</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>173.55.6.156</ip>
+                        <mac>15545</mac>
+                    </interfaz>
+
+                    <interfaz>
+                        <ip>175.15.2.674</ip>
+                        <mac>455</mac>
+                    </interfaz>
+
+
+                </interfaces_red>
+            </maquina_virtual>
+            
+            <maquina_virtual nombre="3">
+                <sistema_operativo>Windows</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>173.11.2.458</ip>
+                        <mac>15778</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+        
+        </maquinas_virtuales>
+    
+    </nodos>
+
+    <nodos nombre="2">
+        <ip>175.15.2.205</ip>
+        <maquinas_virtuales>
+            <maquina_virtual nombre="6">
+                <sistema_operativo>Linux</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>172.15.5.103</ip>
+                        <mac>7744</mac>
+                    </interfaz>
+
+                    <interfaz>
+                        <ip>175.10.2.255</ip>
+                        <mac>44455</mac>
+                    </interfaz>
+
+                    <interfaz>
+                        <ip>171.14.6.204</ip>
+                        <mac>4475</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+            <maquina_virtual nombre="5">
+                <sistema_operativo>Windows</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>173.45.5.566</ip>
+                        <mac>4514545</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+            
+            <maquina_virtual nombre="4">
+                <sistema_operativo>Windows</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>175.51.2.458</ip>
+                        <mac>1777</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+        
+        </maquinas_virtuales>
+    
+    </nodos>
+    
+    <nodos nombre="3">
+        <ip>174.15.2.205</ip>
+        <maquinas_virtuales>
+            <maquina_virtual nombre="7">
+                <sistema_operativo>Linux</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>176.15.5.103</ip>
+                        <mac>77gfg44</mac>
+                    </interfaz>
+
+                    <interfaz>
+                        <ip>165.11.2.256</ip>
+                        <mac>44ghk</mac>
+                    </interfaz>
+
+                    <interfaz>
+                        <ip>171.15.6.544</ip>
+                        <mac>44hgh75</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+            <maquina_virtual nombre="8">
+                <sistema_operativo>Windows</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>158.35.5.546</ip>
+                        <mac>451yyyy4545</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+            
+            <maquina_virtual nombre="9">
+                <sistema_operativo>Windows</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>154.54.2.448</ip>
+                        <mac>177hgj7</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+        
+        </maquinas_virtuales>
+    
+    </nodos>
+
+    <nodos nombre="4">
+        <ip>175.17.4.205</ip>
+        <maquinas_virtuales>
+            <maquina_virtual nombre="9">
+                <sistema_operativo>Linux</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>174.19.3.103</ip>
+                        <mac>77sdd44</mac>
+                    </interfaz>
+
+
+                </interfaces_red>
+            </maquina_virtual>
+            <maquina_virtual nombre="10">
+                <sistema_operativo>Linux</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>168.48.3.476</ip>
+                        <mac>451y5</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+            
+            <maquina_virtual nombre="11">
+                <sistema_operativo>Linux</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>144.54.2.338</ip>
+                        <mac>1584gj7</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+        
+        </maquinas_virtuales>
+    
+    </nodos>
+   
+   <nodos nombre="5">
+        <ip>178.67.8.785</ip>
+        <maquinas_virtuales>
+            <maquina_virtual nombre="16">
+                <sistema_operativo>Linux</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>178.16.8.793</ip>
+                        <mac>7sd5444</mac>
+                    </interfaz>
+
+
+                </interfaces_red>
+            </maquina_virtual>
+            <maquina_virtual nombre="15">
+                <sistema_operativo>Linux</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>179.58.1.436</ip>
+                        <mac>45487dd</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+            
+            <maquina_virtual nombre="13">
+                <sistema_operativo>Windows</sistema_operativo>
+                <interfaces_red>
+
+                    <interfaz>
+                        <ip>784.69.1.238</ip>
+                        <mac>shs544gj7</mac>
+                    </interfaz>
+
+                </interfaces_red>
+            </maquina_virtual>
+        
+        </maquinas_virtuales>
+    
+    </nodos>
+
+</cluster>

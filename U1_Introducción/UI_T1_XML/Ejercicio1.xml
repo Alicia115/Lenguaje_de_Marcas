@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<torneo>
+    <nombre> Torneo la Copa</nombre>
+    <fecha>
+    
+        <inicio>12/06/2020</inicio>
+        <finalizacion>21/06/2020</finalizacion>
+    </fecha>
+    <partidos>
+
+        <partido>
+            <fecha>12/06/2020</fecha>
+            <sets>
+                <set resultado="3:1"></set>
+                <set resultado="4:3"></set>
+                <set resultado="5:2"></set>
+            </sets>
+            <jugadores>
+                <jugador nombre="Fernando">
+                    <apellidos> Fernández Gil</apellidos>
+                    <fecha_nacimiento>19/05/1989</fecha_nacimiento>
+                    <nacionalidad>Española</nacionalidad>
+                </jugador>
+                    
+                <jugador nombre="Roger">
+                    <apellidos>Federer</apellidos>
+                    <fecha_nacimiento>08/08/1981</fecha_nacimiento>
+                    <nacionalidad>Suizo</nacionalidad>
+                </jugador>
+            </jugadores>
+        </partido>
+    
+        <partido>
+            <fecha>13/06/2020</fecha>
+            <sets>
+                <set resultado="2:2"></set>
+                <set resultado="3:2"></set>
+                <set resultado="2:1"></set>
+            </sets>
+            <jugadores>
+                <jugador nombre="Rafael">
+                    <apellidos>Nadal Perera</apellidos>
+                    <fecha_nacimiento>03/06/1986</fecha_nacimiento>
+                    <nacionalidad>Española</nacionalidad>
+                </jugador>
+                    
+                <jugador nombre="Novak">
+                    <apellidos>Đoković</apellidos>
+                    <fecha_nacimiento>22/05/1987</fecha_nacimiento>
+                    <nacionalidad>Serbio</nacionalidad>
+                </jugador>
+            </jugadores>
+        </partido>
+
+        <partido>
+            <fecha>14/06/2020</fecha>
+            <sets>
+                <set resultado="1:0"></set>
+                <set resultado="4:3"></set>
+                <set resultado="3:5"></set>
+            </sets>
+            <jugadores>
+                <jugador nombre="Diego">
+                    <apellidos>Arebalo</apellidos>
+                    <fecha_nacimiento>22/12/1990</fecha_nacimiento>
+                    <nacionalidad>Española</nacionalidad>
+                </jugador>
+                    
+                <jugador nombre="Andy">
+                    <apellidos>Murray</apellidos>
+                    <fecha_nacimiento>15/05/1987</fecha_nacimiento>
+                    <nacionalidad>Británico</nacionalidad>
+                </jugador>
+            </jugadores>
+        </partido>
+
+        <partido>
+            <fecha>15/06/2020</fecha>
+            <sets>
+                <set resultado="0:2"></set>
+                <set resultado="2:1"></set>
+                <set resultado="3:3"></set>
+            </sets>
+            <jugadores>
+                <jugador nombre="Dominic">
+                    <apellidos>Thiem</apellidos>
+                    <fecha_nacimiento>06/04/1989</fecha_nacimiento>
+                    <nacionalidad>Austriaco</nacionalidad>
+                </jugador>
+                    
+                <jugador nombre="Adriá">
+                    <apellidos>Esteves</apellidos>
+                    <fecha_nacimiento>20/05/1988</fecha_nacimiento>
+                    <nacionalidad>Venezolana</nacionalidad>
+                </jugador>
+            </jugadores>
+        </partido>
+    
+        <partido>
+            <fecha>16/06/2020</fecha>
+            <sets>
+                <set resultado="3:1"></set>
+                <set resultado="0:1"></set>
+                <set resultado="2:3"></set>
+            </sets>
+            <jugadores>
+                <jugador nombre="Alexander">
+                    <apellidos> Zverev </apellidos>
+                    <fecha_nacimiento>26/11/1990</fecha_nacimiento>
+                    <nacionalidad>Alemania</nacionalidad>
+                </jugador>
+                    
+                <jugador nombre="Raúl">
+                    <apellidos>Rodriguez</apellidos>
+                    <fecha_nacimiento>29/10/1994</fecha_nacimiento>
+                    <nacionalidad>Española</nacionalidad>
+                </jugador>
+            </jugadores>
+        </partido>
+
+        <partido>
+            <fecha>17/06/2020</fecha>
+            <sets>
+                <set resultado="3:4"></set>
+                <set resultado="3:1"></set>
+                <set resultado="0:2"></set>
+            </sets>
+            <jugadores>
+                <jugador nombre="Juan">
+                    <apellidos>Martin</apellidos>
+                    <fecha_nacimiento>20/06/1988</fecha_nacimiento>
+                    <nacionalidad>Argentino</nacionalidad>
+                </jugador>
+                    
+                <jugador nombre="Jesus">
+                    <apellidos>Ferrera</apellidos>
+                    <fecha_nacimiento>07/10/1989</fecha_nacimiento>
+                    <nacionalidad>Española</nacionalidad>
+                </jugador>
+            </jugadores>
+        </partido>
+
+        <partido>
+            <fecha>18/06/2020</fecha>
+            <sets>
+                <set resultado="0:0"></set>
+                <set resultado="2:1"></set>
+                <set resultado="3:4"></set>
+            </sets>
+            <jugadores>
+                <jugador nombre="Miguel Ángel">
+                    <apellidos>Iguiño</apellidos>
+                    <fecha_nacimiento>26/04/1990</fecha_nacimiento>
+                    <nacionalidad>Española</nacionalidad>
+                </jugador>
+                    
+                <jugador nombre="Fernando">
+                    <apellidos>Ballesta</apellidos>
+                    <fecha_nacimiento>05/05/1987</fecha_nacimiento>
+                    <nacionalidad>Portuguesa</nacionalidad>
+                </jugador>
+            </jugadores>
+        </partido>
+
+        <partido>
+            <fecha>19/06/2020</fecha>
+           <sets>
+                <set resultado="3:0"></set>
+                <set resultado="1:3"></set>
+                <set resultado="0:3"></set>
+            </sets>
+            <jugadores>
+                <jugador nombre="Francisco">
+                    <apellidos>Acosta López</apellidos>
+                    <fecha_nacimiento>23/02/1990</fecha_nacimiento>
+                    <nacionalidad>Española</nacionalidad>
+                </jugador>
+                    
+                <jugador nombre="Daniel">
+                    <apellidos>Leiva Rodriguez</apellidos>
+                    <fecha_nacimiento>03/03/1986</fecha_nacimiento>
+                    <nacionalidad>Española</nacionalidad>
+                </jugador>
+            </jugadores>
+        </partido>
+
+        <partido>
+            <fecha></fecha>
+            <sets>
+                <set resultado="2:3"></set>
+                <set resultado="0:1"></set>
+                <set resultado="3:3"></set>
+            </sets>
+            <jugadores>
+                <jugador nombre="Pete">
+                    <apellidos>Sampras</apellidos>
+                    <fecha_nacimiento>02/09/1989</fecha_nacimiento>
+                    <nacionalidad>Estadounidense</nacionalidad>
+                </jugador>
+                    
+                <jugador nombre="Carlos">
+                    <apellidos>Vilches</apellidos>
+                    <fecha_nacimiento>06/09/1988</fecha_nacimiento>
+                    <nacionalidad>Española</nacionalidad>
+                </jugador>
+            </jugadores>
+        </partido>
+
+        <partido>
+            <fecha></fecha>
+            <sets>
+                <set resultado="6:5"></set>
+                <set resultado="2:1"></set>
+                <set resultado="3:4"></set>
+            </sets>
+            <jugadores>
+                <jugador nombre="Diego">
+                    <apellidos>Schwartzman </apellidos>
+                    <fecha_nacimiento>25/06/1990</fecha_nacimiento>
+                    <nacionalidad>Argentina</nacionalidad>
+                </jugador>
+                    
+                <jugador nombre="Jose">
+                    <apellidos>Vaquero</apellidos>
+                    <fecha_nacimiento>09/08/1988</fecha_nacimiento>
+                    <nacionalidad>Española</nacionalidad>
+                </jugador>
+            </jugadores>
+        </partido>
+    
+    
+    
+    
+    </partidos>
+</torneo>
