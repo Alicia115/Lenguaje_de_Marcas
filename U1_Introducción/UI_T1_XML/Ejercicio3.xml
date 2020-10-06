@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<Empresa>
+<empresa>
 
-    <Edificio direccion="Calle Almuñecar nº11">
+    <edificio direccion="Calle Almuñecar nº11">
         <numero_plantas>3</numero_plantas>
         <plantas>
             <planta numero="1">
@@ -174,9 +174,9 @@
         </plantas>
     
     
-    </Edificio>
+    </edificio>
 
-    <Edificio direccion="Calle Daroca nº 10">
+    <edificio direccion="Calle Daroca nº 10">
         <numero_plantas>6</numero_plantas>
         <plantas>
             <planta numero="4">
@@ -248,7 +248,7 @@
                     </empleado>
 
                     <empleado extension="478">
-                        <puesto>liñli</puesto>
+                        <puesto>Director</puesto>
                         <datos_personales>
                             <nombre>Lili</nombre>
                             <apellidos>perez</apellidos>
@@ -258,30 +258,30 @@
                     </empleado>
 
                     <empleado extension="456">
-                        <puesto>skjdk</puesto>
+                        <puesto>Ejecutivo</puesto>
                         <datos_personales>
-                            <nombre>dfdsf</nombre>
-                            <apellidos>ff</apellidos>
+                            <nombre>Alejandro</nombre>
+                            <apellidos>Narvaez</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
                     <empleado extension="545">
-                        <puesto>fsff</puesto>
+                        <puesto>Diseñador</puesto>
                         <datos_personales>
-                            <nombre>fsff</nombre>
-                            <apellidos>sfsf</apellidos>
+                            <nombre>Estefania</nombre>
+                            <apellidos>Garcia</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
                     
                     <empleado extension="458">
-                        <puesto>dgg</puesto>
+                        <puesto>Diseño</puesto>
                         <datos_personales>
-                            <nombre>gdggd</nombre>
-                            <apellidos>dgg</apellidos>
+                            <nombre>Claudia</nombre>
+                            <apellidos>Galvez</apellidos>
                         </datos_personales>
                     
                     
@@ -290,53 +290,53 @@
                 </empleados>
             </planta>
             <planta numero="6">
-                <cuadrados>454554</cuadrados>
+                <cuadrados>4544</cuadrados>
                 <empleados>
                     <empleado extension="457">
-                        <puesto>fgfg</puesto>
+                        <puesto>Administrativo</puesto>
                         <datos_personales>
-                            <nombre>sss</nombre>
-                            <apellidos>fff</apellidos>
+                            <nombre>Antonio</nombre>
+                            <apellidos>Diaz</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
                     <empleado extension="4546">
-                        <puesto>456</puesto>
+                        <puesto>Director</puesto>
                         <datos_personales>
-                            <nombre>fsff</nombre>
-                            <apellidos>eee</apellidos>
+                            <nombre>Mercedes</nombre>
+                            <apellidos>Brito</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
                     <empleado extension="568">
-                        <puesto>487</puesto>
+                        <puesto>Subdirector</puesto>
                         <datos_personales>
-                            <nombre>ddd</nombre>
-                            <apellidos>ssss</apellidos>
+                            <nombre>Raul</nombre>
+                            <apellidos>Lopez</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
                     <empleado extension="458">
-                        <puesto>478</puesto>
+                        <puesto>Editor</puesto>
                         <datos_personales>
-                            <nombre>ssss</nombre>
-                            <apellidos>www</apellidos>
+                            <nombre>Diego</nombre>
+                            <apellidos>Lopez/apellidos </apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
                     
                     <empleado extension="478">
-                        <puesto>632</puesto>
+                        <puesto>Administrativa</puesto>
                         <datos_personales>
-                            <nombre>sdfe</nombre>
-                            <apellidos>fgtr</apellidos>
+                            <nombre>Marisa</nombre>
+                            <apellidos>Benitez</apellidos>
                         </datos_personales>
                     
                     
@@ -348,59 +348,59 @@
         </plantas>
     
     
-    </Edificio>
+    </edificio>
 
-    <Edificio direccion="Calle Sigüenza nº 5">
+    <edificio direccion="Calle Sigüenza nº 5">
         <numero_plantas>5</numero_plantas>
         <plantas>
             <planta numero="1">
-                <cuadrados></cuadrados>
+                <cuadrados>5698</cuadrados>
                 <empleados>
-                    <empleado extension="">
-                        <puesto></puesto>
+                    <empleado extension="123">
+                        <puesto>Diseñador</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>David</nombre>
+                            <apellidos>Perez</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
-                    <empleado extension="">
-                        <puesto></puesto>
+                    <empleado extension="478">
+                        <puesto>Maquetador</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Adrian</nombre>
+                            <apellidos>Leiva</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
-                    <empleado extension="">
-                        <puesto></puesto>
+                    <empleado extension="987">
+                        <puesto>Programador</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Raul</nombre>
+                            <apellidos>Fernandez</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
-                    <empleado extension="">
-                        <puesto></puesto>
+                    <empleado extension="486">
+                        <puesto>Administrativo</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Dario</nombre>
+                            <apellidos>Perez</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
-                    <empleado extension="">
-                        <puesto></puesto>
+                    <empleado extension="236">
+                        <puesto>Maquetador</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Sergio</nombre>
+                            <apellidos>Acosta</apellidos>
                         </datos_personales>
                     
                     
@@ -409,53 +409,53 @@
                 </empleados>
             </planta>
             <planta numero="2">
-                <cuadrados></cuadrados>
+                <cuadrados>4536</cuadrados>
                 <empleados>
-                    <empleado extension="">
-                        <puesto></puesto>
+                    <empleado extension="478">
+                        <puesto>Camara</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Rocio</nombre>
+                            <apellidos>Nieto</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
-                    <empleado extension="">
-                        <puesto></puesto>
+                    <empleado extension="128">
+                        <puesto>Programador</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Javier</nombre>
+                            <apellidos>Salvador</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
-                    <empleado extension="">
-                        <puesto></puesto>
+                    <empleado extension="365">
+                        <puesto>Administrativo</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Gloria</nombre>
+                            <apellidos>Gomez</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
-                    <empleado extension="">
-                        <puesto></puesto>
+                    <empleado extension="214">
+                        <puesto>Gerente</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Alejandro</nombre>
+                            <apellidos>Perez</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
                     
-                    <empleado extension="">
-                        <puesto></puesto>
+                    <empleado extension="369">
+                        <puesto>maquetador</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Raquel</nombre>
+                            <apellidos>Lopez</apellidos>
                         </datos_personales>
                     
                     
@@ -467,50 +467,50 @@
                 <cuadrados>45588</cuadrados>
                 <empleados>
                     <empleado extension="456">
-                        <puesto></puesto>
+                        <puesto>social media</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Alicia</nombre>
+                            <apellidos>Sabido</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
                     <empleado extension="455">
-                        <puesto></puesto>
+                        <puesto>programador</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Jose</nombre>
+                            <apellidos>Jimenez</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
                     <empleado extension="456">
-                        <puesto></puesto>
+                        <puesto>Diseño</puesto>
                         <datos_personales>
                             <nombre></nombre>
-                            <apellidos></apellidos>
+                            <apellidos>Cuevas</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
 
                     <empleado extension="789">
-                        <puesto></puesto>
+                        <puesto>Administrativo</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Paula</nombre>
+                            <apellidos>Olmo</apellidos>
                         </datos_personales>
                     
                     
                     </empleado>
                     
                     <empleado extension="896">
-                        <puesto></puesto>
+                        <puesto>Maquetador</puesto>
                         <datos_personales>
-                            <nombre></nombre>
-                            <apellidos></apellidos>
+                            <nombre>Laura</nombre>
+                            <apellidos>Estevez</apellidos>
                         </datos_personales>
                     
                     
@@ -522,8 +522,8 @@
         </plantas>
     
     
-    </Edificio>
+    </edificio>
 
 
 
-</Empresa>
+</empresa>
