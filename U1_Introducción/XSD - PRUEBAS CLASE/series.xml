@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<serie
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="series.xsd">
+    <temporada>
+        <fecha_inicio>2020-01-20</fecha_inicio>
+        <fecha_final></fecha_final>
+        <capitulos>
+            <capitulo>
+                <titulo></titulo>
+                <fecha_emision></fecha_emision>
+            </capitulo>
+            <capitulo>
+                <titulo></titulo>
+                <fecha_emision></fecha_emision>
+            </capitulo>
+        </capitulos>
+
+    </temporada>
+
+    <temporada>
+    
+    
+    </temporada>
+
+</serie>

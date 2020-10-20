@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiporder orderid="orden"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="ej4.xsd">
+   <orderperson>Nose</orderperson>
+    <shipto>
+        <name>Pedro</name>
+        <address>calle mandulgo</address>
+        <city>Sevilla</city>
+        <country>Spain</country>
+   </shipto>
+   <item>
+        <title>Titulo</title>
+        <note>De nota</note>
+        <quantity>2</quantity>
+        <price>0,35</price>
+   </item>
+    <item>
+        <title>Titulo 2</title>
+        <quantity>5</quantity>
+        <price>0,785</price>
+   </item>
+    <item>
+        <title>Titulo 3</title>
+        <note>Aprobado</note>
+        <quantity>4</quantity>
+        <price>0,25</price>
+   </item>
+</shiporder>

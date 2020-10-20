@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca SYSTEM "ej1.dtd">
+<libro catalogo="1">
+    <titulo>El principito</titulo>
+    <seccion>2</seccion>
+    <subseccion>2.1</subseccion>
+    <contenido>
+        <capitulo materia="HTML">
+            <tema>amor</tema>
+            <tema>odio</tema>
+            <tema>aprendizaje</tema>
+        </capitulo>
+         <capitulo materia="XML">
+            <tema>amor</tema>
+            <tema>odio</tema>
+        </capitulo>
+         <capitulo>
+            <tema>amor</tema>
+            <tema>odio</tema>
+        </capitulo>
+    </contenido>
+    <copyright>CR2</copyright>
+</libro>

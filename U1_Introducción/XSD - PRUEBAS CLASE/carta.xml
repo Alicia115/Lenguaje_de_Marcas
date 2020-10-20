@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<carta
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="carta.xsd">
+    <origen autor="Juan DIego"/>
+    <destinatario dni="23456789Z">
+        <nombre>Alicia</nombre>
+        <apellidos>Acosta</apellidos>
+    </destinatario>
+    <asunto>ELe</asunto>
+    <texto>QUe pasa aqui</texto>
+</carta>

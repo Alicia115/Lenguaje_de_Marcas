@@ -1,0 +1,25 @@
+<?xmlversion="1.0"encoding="UTF-8"?>
+<xs:schema
+xmlns:xs="http://www.w3.org/2001/XMLSchema"
+elementFormDefault="qualified">
+
+    <xs:elemnt name="carta">
+    
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="origen" type="xs:string"/>
+                <xs:element name="destinatario" type="xs:string" maxOccurs="unbounded"/>
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="apellido" type="xs:string"/>
+                       </xs:sequence>
+                    </xs:complexType>
+                <xs:element name="asunto" type="sting"/>
+                <xs:element name="texto" type="sting"/>
+            </xs:sequence>
+        </xs:complexType>
+    
+    </xs:elemnt>
+
+</xs:schema>

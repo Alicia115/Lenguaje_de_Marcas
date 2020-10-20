@@ -1,0 +1,56 @@
+<?xmlversion="1.0"encoding="UTF-8"?>
+<xs:schema
+xmlns:xs="http://www.w3.org/2001/XMLSchema"
+elementFormDefault="qualified">
+    <xs:element name="relacion">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="persona" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                             <xs:element name="nombre">
+                             <xs:SimpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="[a-zA-Z ] {4} [0-9]"/>
+                                    </xs:restriction>
+                                </xs:SimpleType>
+                             
+                             </xs:element>
+                              <xs:element name="email" maxOccurs="unbounded">
+                                <xs:SimpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:minInclusive value="1"/>
+                                        <xs:maxInclusive value="250"/>
+                                    </xs:restriction>
+                                </xs:SimpleType>
+                              </xs:element>
+                              <xs:element name="parentesco">
+                                <xs:complexType>
+                                    <xs:attribute name="tipo">
+                                         <xs:SimpleType>
+                                             <xs:restriction base="xs:string">
+                                                 <xs:enumeration value="Hijo"/>
+                                                <xs:enumeration value="Hija"/>
+                                                <xs:enumeration value="Padre"/>
+                                                 <xs:enumeration value="Madre"/>
+                                                <xs:enumeration value="Otro"/>
+                                            </xs:restriction>>
+                                        </xs:SimpleType>
+                                    </xs:attribute>
+                                </xs:complexType>
+                                
+                            </xs:element>
+                         </xs:sequence>
+                        <xs:attribute name="sexo" type="xs:string" />
+                         <xs:attribute name="carnet" type="" />
+                     </xs:complexType>
+                 </xs:element>
+            
+            
+            </xs:sequence>
+            
+        </xs:complexType>
+    </xs:element>
+    
+
+</xs:schema>

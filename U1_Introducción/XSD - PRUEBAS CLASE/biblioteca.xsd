@@ -1,0 +1,23 @@
+<?xmlversion="1.0"encoding="UTF-8"?>
+<xs:schema
+xmlns:xs="http://www.w3.org/2001/XMLSchema"
+elementFormDefault="qualified">
+
+    <xs:elemnt name="biblioteca">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="direccion" type="xs:string" minOccurs="0"/>
+                <xs:element name="bibliotecario"/>
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:attribute name="nombre" type="xs:string"/>
+                            <xs:attribute name="dni" type="xs:string"/>
+                       </xs:sequence>
+                    </xs:complexType>
+                
+            </xs:sequence>
+        </xs:complexType>
+    
+    </xs:elemnt>
+
+</xs:schema>
