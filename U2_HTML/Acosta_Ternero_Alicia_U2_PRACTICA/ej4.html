@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ej4</title>
+    <style>
+        table{
+            border:1px solid rgb(190, 190, 190)
+        }
+        label{
+            font-weight: bold;
+        }
+        td{
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+   <form>  
+           <table>
+               <tr>
+                   <td colspan="2" style="background-color: rgb(177, 154, 92);" ><label for="actions">Leave Form</label>
+                     <select id="actions" value="More Actions" style="border-style: none; background-color: rgb(177, 154, 92);">
+                       <option selected>More Actions</option>
+                       <option value="b">b. oju</option>
+                       <option value="c">c. que cosas</option>
+                    </select>
+                    </td>
+               </tr>
+               <p></p>
+               <tr>
+                   <td><label for="email">Employee Email</label></td>
+                   <td>
+                       <input type="email" id="email" value="appuser@zohocreator.com" disabled style="background-color: rgb(190, 190, 190); color: black;"> 
+                    </td>
+               </tr>
+               <tr>
+                    <td><label for="id">Employee Id</label></td>
+                    <td><input type="number" id="id" value="232" disabled style="background-color: rgb(190, 190, 190); color: black;"/></td>
+               </tr>
+               <tr>
+                    <td><label for="name">Employee Name</label></td>
+                    <td><input type="text" id="name" value="appuser"  disabled style="background-color: rgb(190, 190, 190); color: black;"/></td>
+               </tr>
+               <tr>
+                    <td><label for="designation">Designation</label></td>
+                    <td><input type="text" id="designation" value="Team Leader" disabled style="background-color: rgb(190, 190, 190); color: black;"/></td>
+               </tr>
+               <tr>
+                    <td><label for="leave">Leave type</label></td>
+                    <td>
+                        <select id="leave" required>
+                            <option selected>-Select-</option>
+                            <option value="1">1. EL breakdance</option>
+                            <option value="2">2. EL crusaito</option>
+                            <option value="3">3. El Michael Jackson</option>
+                            <option value="4">4. El robocop</option>
+                        </select>
+                    </td>
+               </tr>
+               <tr>
+                    <td><label for="from">From</label></td>
+                    <td><input type="date" id="from" required/><img src="calendario.png" style="width: 15px; height: 15px;"></td>
+               </tr>
+               <tr>
+                    <td><label for="to">To</label></td>
+                    <td><input type="date" id="to" required/><img src="calendario.png" style="width: 15px; height: 15px;"></td>
+               </tr>
+               <tr>
+                    <td><label for="days">No of Days</label></td>
+                    <td><input type="number" id="days" /></td>
+               </tr>
+               <tr>
+                    <td><label for="reason">Reason</label></td>
+                    <td><textarea id="reason" rows="7" cols="30"></textarea></td>
+               </tr>
+
+               <tr>
+                   <td colspan="2" style="background-color: rgb(190, 190, 190); text-align: center;" >
+                        <p>
+                            <input type="submit" value="submit" style="background-color: rgb(177, 154, 92); color: white;">
+                            <input type="reset" value="Reset" style="background-color: rgb(177, 154, 92); color: white;">
+                        </p>
+                   </td>
+               </tr>
+
+           </table>
+       
+      
+   </form> 
+</body>
+</html>
