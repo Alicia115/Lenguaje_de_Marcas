@@ -1,0 +1,3 @@
+﻿En la versión inglesa (poema.html), ¿por qué los últimos 5 párrafos se muestran de forma diferente que los 2 primeros?. Contestar en el fichero ejercicio2.txt que debes dejar en esa carpeta.
+
+Porque en la hoja de estilos css se le ha dado atributos distintos a esos dos párrafos, usando un atributo de etiqueta “class” denominado como “verse”. De esta forma desde css, con ese atributo de etiqueta, se le aplica a los dos primeros párrafos un color de fondo (maroon) distinto y un margen izquierdo mayor (margin-left: 60px), al resto de párrafos. 

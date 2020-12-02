@@ -1,0 +1,12 @@
+﻿Describe los elementos de la hoja de estilos. Para ello utiliza los apuntes o cualquiera de las referencias propuestas. Hacerlo en el fichero ejercicio1.txt que debes dejar en esa carpeta.
+En la hoja de estilos tenemos la etiqueta body, a la que se le ha designado con el atributo background-color un color de fondo “tan”. 
+
+En la etiqueta h1, tenemos el atributo color: maroon, dándole al texto un color marrón, y también tenemos un atributo font-size, donde se le ha dado un tamaño de 20pt.
+
+En la etiqueta hr, donde a las líneas horizontales se le da un color azul oscuro: navy.
+
+Tenemos dos etiquetas párrafos, una de ellas donde el tamaño de letra (font-size) es de 12pt, y el margen izquierdo (margin-left) es de 15 px.
+
+El otro párrafo tiene selector class, donde cuya etiqueta clase (diferenciándolo del otro párrafo), le da un color de letra marrón y un margen izquierdo de 60 px. 
+
+Y por último, cuenta con varios pseudo-selectores, que son enlaces, cada uno con un color de fuente distinto, entre ellos: verde, amarillo, negro y azul. 
