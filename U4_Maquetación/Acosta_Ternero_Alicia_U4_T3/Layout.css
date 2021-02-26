@@ -1,0 +1,187 @@
+* {
+    box-sizing: border-box;
+  }
+
+
+  /* RESETEO DE PROPIEDADES */
+ h1, 
+ body{
+    margin:0px;
+  }
+
+
+  body {
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+  
+  /* Estilos cabecera (header) */
+
+  .header{
+    background-color: #052529;  
+    margin: 0px;
+    padding: 40px;
+    padding-right: 160px;
+    padding-left: 150px;
+    
+  }
+
+  .nav-item:hover{
+    background-color: rgb(3, 151, 177);
+    padding: 10px;
+    
+}
+
+  .cabecera1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 60px;
+  }
+
+  .enterprise{
+    text-align: left;
+    color: white;
+    font-size: 40px;
+  }
+
+  .menuportada{
+    text-align: right;
+    padding-top: 15px; 
+  }
+
+  nav a{
+    color: rgb(19, 185, 185);
+    text-decoration: none;
+    padding: 5px;
+    padding-left: 25px;
+    
+  }
+
+  .cabecera2{
+    display: flex;
+    justify-content: space-between;
+    
+  }
+
+  .cabecera2 img{
+    width: 600px;
+  }
+
+  .textportada{
+    color:  rgb(19, 185, 185);
+    padding-right: 40px;
+  }
+
+  h1 {
+    color: white;
+    font-size: 55px;
+    margin: 0px;
+  }
+
+  h2{
+    color: white;
+    font-size: 40px;
+    margin: 0px;
+  }
+
+  /* Estilos main */
+
+  .main{
+    margin: 0px;
+    padding: 40px;
+    padding-right: 100px;
+    padding-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+  }
+
+  .tituloPrimeraLinea img{  
+    width: 60px;
+  }
+
+  .section{
+    width: 30%;
+    
+    margin-top: 100px;
+  }
+
+  .section input{
+    border-radius: 15%;
+    -webkit-border-radius: 15%;
+    -moz-border-radius: 15%;
+    -ms-border-radius: 15%;
+    -o-border-radius: 15%;
+    padding: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: rgb(204, 204, 204);
+    
+ }
+
+  .tituloPrimeraLinea{
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .tituloPrimeraLinea h3 {
+    padding-left: 10px;
+    
+  }
+
+  .picture{
+    height: 180px;
+    padding-right: 35px;
+  }
+
+
+
+    /* Estilos Pie Pagina */
+
+  .piePagina{
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .textopiePagina{
+    display: flex ;
+    align-items: center;
+  }
+
+  .piePagina img{
+    width: 150px;
+  
+  }
+
+  .piePagina input{
+    height: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-right: 60px;
+  }
+
+  .piePagina p, a{
+    margin:0%;
+    text-decoration: none;
+    color: black;
+    
+  }
+
+
+   /* Estilos Footer */
+
+  footer{
+    background-color: #052529;  
+    color:  rgb(19, 185, 185);
+    margin: 0px;
+    padding: 40px;
+    padding-right: 160px;
+    padding-left: 150px;
+    display: flex;
+    justify-content: space-between;
+  }
+
