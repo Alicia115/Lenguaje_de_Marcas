@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Proyecto Práctico - Layout Alicia Acosta Disenio Responsivo</title>
+    <link href="estilos.css" rel="stylesheet" type="text/css" />
+
+  </head>
+
+  <body>
+   <div class="container">
+
+    <header>
+        <div id="logoportada"><img src="img/logo1.png"></div>
+        <div class= "textoportada">
+            <h1>[Guia] Lugares para um final de semana de Aventura!</h1>
+            <p>Conheça dicas de lugares para quem busca contato com a natureza</p>  
+        </div>        
+
+    </header>
+
+    <main>
+
+        <div class="centro">
+            <img src="img/lugares.jpg">
+            <h3>Todas as regioes do Brasil</h3>
+            <p>Selecionamos dois lugares para cada regiao do Brasil para voce aproveitar uma aventura de final de semana em cotato com a natureza</p>
+        </div>
+
+        <div class="formulario_completo">
+            <div class="formulario_encabezado">
+                <h3>Faça o download gratis aqui!</h3>
+                <p>Basta preencher o formulario abaixo</p>
+            </div>
+            <div class="formulario">
+                <form>
+                    <div><label for="nombre">Nome*</label></div>
+                    <div><input type="text" id="nombre"/></div>
+                    <div><label for="email">Email*</label></div>
+                    <div><input type="email" id="email"/></div>
+                    <div><label for="estado">Estado*</label></div>
+                    <div><select id="estado">
+                        <option>Huelva</option>
+                        <option>Sevilla</option>
+                        <option>Cádiz</option>
+                        <option>Córdoba</option>
+                        <option>Jaén</option>
+                        <option>Granada</option>
+                        <option>Málaga</option>
+                        <option>Almería</option>
+                    </select></div>
+                    <div><label for="aventura">Voce practica que tipo de aventura?*</label></div>
+                    <div><input type="checkbox" id="aventura" value="trekking" />Trekking</div>
+                    <div><input type="checkbox" id="aventura" value="puenting" />Puenting</div>
+                    <div><input type="checkbox" id="aventura" value="paracaidismo" />Paracaidismo</div>
+                    <div><input type="checkbox" id="aventura" value="rafting" />Rafting</div>
+                    <p><input type="submit" value="Enviar Solicitud" /></p>
+                </form>
+            </div>
+        </div>
+        <div>
+            
+        </div>
+    </main>
+   </div>
+  </body>
+
+  
+</html>
