@@ -1,0 +1,142 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body{
+    margin:0px;
+}
+
+.container{
+    width: 100%;
+}
+
+header{
+    background-color: rgb(51, 48, 48);
+    display: flex;
+    justify-content: flex-start;
+    padding: 0.7rem;
+}
+
+.menu img{
+    width: 100%;
+}
+
+.menu{
+    width: 30%;
+}
+
+#menu_lineas {
+     color: white;
+    margin-top: 0.5rem;
+}
+
+main{
+    background-color: grey;
+}
+
+.buscador{
+    display: none;
+}
+
+.menu nav{
+    display: none;
+}
+
+.formulario input, label{
+    display: none;
+}
+
+.formulario button {
+    padding:1rem;
+    background-color: plum;
+    color:white;
+    border-radius: 10px;
+    font-style: bold;
+    margin: 0.7rem;
+}
+
+#texto_principal{
+    padding: 0.7rem;
+}
+
+main h2{
+    color: white;
+    text-align: center;
+    margin: 0%;
+}
+
+#texto_secundario{
+    background-color: rgb(51, 48, 48);
+    font-size: 0.9rem;
+    padding: 0.7rem;
+    margin: 0%;
+}
+
+
+.catalogo{
+    background-color:rgb(179, 174, 174);
+    padding:1rem;
+    display: flex;
+    justify-content: start;
+   
+}
+
+
+
+@media screen and (min-width:576px){
+
+}
+
+
+@media screen and (min-width:992px){
+
+    header{
+        padding: 2rem;
+    }
+
+    #menu_lineas {
+        display: none;
+   }
+   .menu{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+    
+   .menu nav{
+    display: inline;
+    color: white;
+    }
+
+    nav ul{
+        list-style: none;
+    }
+    ul{
+        display: flex;
+    }
+    li{
+        padding-right: 1rem;
+    }
+  
+    .buscador{
+        display: inline;
+        color: white;
+    }
+
+    .formulario input, label{
+        display: inline;
+    }
+
+  section{
+      background-color: white;
+      width: 60%;
+  }
+
+}
+
+
+
+
+
