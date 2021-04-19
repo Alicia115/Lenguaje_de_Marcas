@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+  }
+
+  /* Resetear */
+body,header,main, p, h1, h3 {
+  margin: 0px;
+
+}
+
+/* BODY */
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* HEADER */
+
+header{
+    background-color: #3a4131;
+    color: white;
+}
+
+
+header h1{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+header p{
+  font-size: 0.8rem;
+}
+
+main{
+  background-color: #ba9561;
+}
+
+.formulario_encabezado{
+  background-color: #3a4131;
+  color: white;
+}
+
+.formulario{
+  background-color: rgb(201, 201, 201);
+}
+
+
+
+@media screen and (min-width:576px){
+
+  /* HEADER */
+
+  header h1{
+    font-size: 2.2rem;
+  }
+
+  header p{
+    font-size: 1rem;
+  }
+
+}
+
+
+
+@media screen and (min-width:992px){
+
+ /* HEADER */
+
+  header h1{
+  font-size: 3.4rem;
+  }
+
+  header p{
+    font-size: 1.4rem;
+  }
+
+}
