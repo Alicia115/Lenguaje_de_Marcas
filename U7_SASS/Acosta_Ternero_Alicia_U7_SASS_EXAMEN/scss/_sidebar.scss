@@ -1,0 +1,11 @@
+/// Anidamiento del sidebar para dar valores del mixin segun tema de la pagina
+/// @group sidebar
+.sidebar{
+    
+    @if $dark-theme {
+        @include placeSideBar(absolute,30,40, blue, white, rgb(228, 53, 0));
+    } @else{
+        @include placeSideBar(absolute,30,40,blue, white, green);
+    }
+
+}

@@ -1,0 +1,28 @@
+///Mixin para centrat el texto
+/// @group centrado
+/// @parameter {integer} $margin
+/// @parameter {integer} $width
+
+@mixin centrado($margin,$width) {
+    margin: #{$margin}+"px" auto;
+    width: #{$width}+"%";
+}
+
+
+///Mixin para ubicar poner color al sidebar
+/// @group placeSideBar
+/// @parameter {integer} $position
+/// @parameter {integer} $width
+/// @parameter {integer} $height
+/// @parameter {color} $color
+/// @parameter {color} $background-color
+/// @parameter {color} $border-color
+
+@mixin placeSideBar($position,$width,$height,$color,$background-color,$border-color){
+        position:#{$position};
+        width: #{$width}+"%";
+        height: #{$height}+"%";
+        color:#{$color};
+        background-color: #{$background-color};
+        border-color: #{$border-color}; 
+}

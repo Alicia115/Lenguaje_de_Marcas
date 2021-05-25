@@ -1,0 +1,42 @@
+///Booleano para activar el dark-theme
+/// @group dark-theme-boolean
+$dark-theme: true;
+
+
+///Colores generales
+
+///Variable color letra documento
+/// @group color
+$color: #222;
+
+///Variable color fondo documento
+/// @group background-color
+$background-color: #DDD;
+
+///Color de fondo de la página
+/// @group body-background
+$body-background: white;
+
+
+
+///Condicional para cambiar los colores a dark-theme
+/// @group dark-theme-condicional
+
+@if $dark-theme {
+    $color:#DDD;
+    $background-color: #222;
+} 
+
+
+
+
+///Mapa tamaño letras
+/// @group tamanio
+
+$tamanios_letra:(
+    "xs":1,
+    "s":2,
+    "m":3,
+    "lg":4,
+    "xl":5
+);

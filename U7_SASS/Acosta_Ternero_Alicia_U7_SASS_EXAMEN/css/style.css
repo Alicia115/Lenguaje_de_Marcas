@@ -1,0 +1,46 @@
+.table {
+  margin: 1rem 0;
+  overflow-y: auto;
+}
+.table .header {
+  font-weight: bolder;
+  font-size: 40px;
+  display: flex;
+  flex-direction: row;
+}
+.table .row {
+  display: flex;
+  flex-direction: row;
+}
+
+.sidebar {
+  position: absolute;
+  width: 30%;
+  height: 40%;
+  color: blue;
+  background-color: white;
+  border-color: #e43500;
+}
+
+.sidebar img {
+  width: 20%;
+}
+
+li, a {
+  text-decoration: none;
+}
+
+.header {
+  border-bottom: 1px solid #DDD;
+}
+
+.container {
+  margin: 30px auto;
+  width: 40%;
+  color: #DDD;
+  background-color: #222;
+  padding: 3rem;
+  position: relative;
+}
+
+/*# sourceMappingURL=style.css.map */

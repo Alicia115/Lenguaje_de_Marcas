@@ -1,0 +1,23 @@
+/// tamaño imagen sidebar
+/// @group sidebar
+.sidebar img{
+    width: 20%;
+}
+
+li, a {
+    text-decoration: none;
+}
+
+
+
+.header {
+    border-bottom: 1px solid $color;
+}
+
+.container{
+    @include centrado(30,40);
+    color: $color;
+    background-color: $background-color;
+    padding: 3rem;
+    position: relative;
+}

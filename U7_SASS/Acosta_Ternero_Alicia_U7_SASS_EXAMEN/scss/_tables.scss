@@ -1,0 +1,25 @@
+///Anidamiento de la tabla
+/// @group tabla
+
+.table {
+    margin: 1rem 0;
+    overflow-y: auto;
+    
+  
+    .header {
+        font-weight: bolder;
+        font-size: 40px;
+        display: flex;
+        flex-direction: row;
+    }
+
+    .row {
+        
+        display: flex;
+        flex-direction: row;
+        
+      
+    }
+    
+}
+
